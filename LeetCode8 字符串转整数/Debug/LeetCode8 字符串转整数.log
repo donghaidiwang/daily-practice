@@ -1,0 +1,7 @@
+﻿  Test.cpp
+E:\gitee每日练习\daily-practice\LeetCode8 字符串转整数\Test.cpp(10,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\gitee每日练习\daily-practice\LeetCode8 字符串转整数\Test.cpp(11,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\gitee每日练习\daily-practice\LeetCode8 字符串转整数\Test.cpp(20,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\gitee每日练习\daily-practice\LeetCode8 字符串转整数\Test.cpp(39,18): warning C4018: “<”: 有符号/无符号不匹配
+E:\gitee每日练习\daily-practice\LeetCode8 字符串转整数\Test.cpp(9,15): warning C4101: “j”: 未引用的局部变量
+  LeetCode8 字符串转整数.vcxproj -> E:\gitee每日练习\daily-practice\LeetCode8 字符串转整数\Debug\LeetCode8 字符串转整数.exe
