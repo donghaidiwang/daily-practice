@@ -1,0 +1,4 @@
+﻿  Test.cpp
+E:\gitee每日练习\daily-practice\正则表达式\Test.cpp(15,27): warning C4018: “<=”: 有符号/无符号不匹配
+E:\gitee每日练习\daily-practice\正则表达式\Test.cpp(17,31): warning C4018: “<=”: 有符号/无符号不匹配
+  正则表达式.vcxproj -> E:\gitee每日练习\daily-practice\正则表达式\Debug\正则表达式.exe
