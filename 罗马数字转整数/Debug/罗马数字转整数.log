@@ -1,0 +1,4 @@
+﻿  Test.cpp
+E:\gitee每日练习\daily-practice\罗马数字转整数\Test.cpp(11,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\gitee每日练习\daily-practice\罗马数字转整数\Test.cpp(20,31): warning C4018: “<”: 有符号/无符号不匹配
+  罗马数字转整数.vcxproj -> E:\gitee每日练习\daily-practice\罗马数字转整数\Debug\罗马数字转整数.exe
