@@ -1,0 +1,4 @@
+﻿  Test.cpp
+E:\gitee每日练习\daily-practice\四树之和\Test.cpp(17,31): warning C4018: “<”: 有符号/无符号不匹配
+E:\gitee每日练习\daily-practice\四树之和\Test.cpp(25,28): warning C4018: “<”: 有符号/无符号不匹配
+  四树之和.vcxproj -> E:\gitee每日练习\daily-practice\四树之和\Debug\四树之和.exe
